@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **sailpoint/IAM, python full stack**
 
-- 👯 I’m looking to collaborate on **booking slot system**
+- 👯 I’m looking to collaborate on **booking slot system,IIQ**
 
-- 🤝 I’m looking for help with **Employee system**
+- 🤝 I’m looking for help with **AI Chatbot Creation**
 
 - 📝 I regularly write articles on [html,css,bootstrap,python,django]
 
-- 💬 Ask me about **html,css,bootstrap,python,oracle,**
+- 💬 Ask me about **html,css,bootstrap,python,**
 
 - 📫 How to reach me **Lethavadlaleelakrishna@gmail.com**
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/leela krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leela krishna" height="30" width="40" /></a>
+<a href="linkedin.com/in/leela-krishna-lethavadla-b0145934b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leela krishna" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
