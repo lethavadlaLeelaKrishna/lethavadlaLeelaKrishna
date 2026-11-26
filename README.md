@@ -58,6 +58,10 @@ src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-
 <a href="mailto:lethavadlaleelakrishna@gmail.com">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
 </a>
+  <a href="https://leela-krishna-portifolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfolio"/>
+  </a>
 </p>
 
 ---
