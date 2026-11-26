@@ -1,27 +1,149 @@
-<h1 align="center">Hi 👋, I'm A passionate FULL STACK UI,PYTHON, from India</h1>
-<h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"&gt;
 
-- 🔭 I’m currently working on [Constructor Project].
+<h1 align="center">Hi 👋, I'm Leela Krishna</h1>
 
-- 🌱 I’m currently learning **sailpoint/IAM, python full stack**
+<h3 align="center">
+Python Full Stack Developer | AI & Machine Learning Enthusiast
+</h3>
 
-- 👯 I’m looking to collaborate on **booking slot system,IIQ**
+<h3 align="center">Passionate Developer from India 🇮🇳</h3>
 
-- 🤝 I’m looking for help with **AI Chatbot Creation**
+<img align="right" alt="Coding" width="380"
+src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" />
 
-- 📝 I regularly write articles on [html,css,bootstrap,python,django]
+- 🎓 B.Tech Graduate in Computer Science Engineering (JNTUK).
+- 💻 Interested in Python Full Stack Development and AI/ML.
+- 🔭 Currently working on a **Construction Project Management Application**.
+- 🌱 Currently learning **ReactJS, Python Full Stack Development, and AI/ML**.
+- 👯 Looking to collaborate on **Full Stack Applications, AI Chatbots, and Web Development Projects**.
+- 🤝 Interested in building **AI-powered Chatbots and Real-World Applications**.
+- 💬 Ask me about **Python, Django, REST APIs, ReactJS, JavaScript, SQL, and MySQL**.
+- 🚀 Experienced in developing database-driven web applications and AI/ML projects.
+- 📫 Reach me at **lethavadlaleelakrishna@gmail.com**
+- ⚡ Fun fact: I enjoy learning new technologies and turning ideas into real-world applications!
 
-- 💬 Ask me about **html,css,bootstrap,python,**
+---
 
-- 📫 How to reach me **Lethavadlaleelakrishna@gmail.com**
+<h3 align="left">🚀 My Projects</h3>
 
-- ⚡ Fun fact **I think i am funny**
+- 🤖 **Price Negotiating Chatbot with Text and Voice**
+  - AI-powered e-commerce chatbot using Python, Django, NLP, and ML.
+  - Supports text and voice-based product price negotiations.
 
-<h3 align="left">Connect with me:</h3>
+- 😊 **Emotion Detection System**
+  - Machine Learning-based emotion detection web application.
+  - Developed using Python, Django, and SQLite.
+
+- 🛒 **Aegon Order – E-Commerce Website**
+  - Multi-page responsive e-commerce frontend.
+  - Built using HTML5, CSS3, and JavaScript.
+
+---
+
+<h3 align="left">💼 Experience & Training</h3>
+
+- **AI & Machine Learning Intern** – Inlignx Global Pvt. Ltd. (Nov 2025 – Mar 2026)
+- **Python Full Stack Developer & Generative AI Training** – AchieversIT (Apr 2026 – Aug 2026)
+
+---
+
+<h3 align="left">🌐 Connect with Me</h3>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/leela-krishna-lethavadla-b0145934b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leela krishna" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lethavadlaLeelaKrishna" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://github.com/lethavadlaLeelaKrishna" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
+</a>
+<a href="mailto:lethavadlaleelakrishna@gmail.com">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
+
+<h3 align="left">🛠️ Languages and Tools</h3>
+
+<p align="left">
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+</a>
+
+<a href="https://www.djangoproject.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
+</a>
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+</a>
+
+<a href="https://www.w3.org/Style/CSS/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+</a>
+
+<a href="https://www.sqlite.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
+</a>
+
+<a href="https://numpy.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+</a>
+
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Statistics</h3>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lethavadlaLeelaKrishna&show_icons=true&theme=tokyonight" alt="Leela Krishna GitHub Stats"/>
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lethavadlaLeelaKrishna&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+<h3 align="center">✨ Learning, Building, and Growing Every Day! ✨</h3>
