@@ -44,8 +44,9 @@ I am interested in designing and developing practical applications using Python 
 - 🤖 Interested in Artificial Intelligence, Machine Learning and NLP.
 - ☁️ Familiar with Git, GitHub, CI/CD and AWS fundamentals.
 - 📍 India
+- 🔭 Currently working on **KUSBLAKS – Training Institute Platform**.
+**Professional Goal:** To build innovative web applications, develop practical software solutions and continuously grow as a Full Stack Developer.
 
-**Professional Goal:** To develop reliable, scalable and user-friendly software applications while continuously improving my technical skills.
 
 ---
 
@@ -136,6 +137,15 @@ I am interested in designing and developing practical applications using Python 
 
 **Project Link:** [View Aegon Order](https://lethavadlaleelakrishna.github.io/aegon_Order/)
 
+### 04. KUSBLAKS – Training Institute Platform
+
+**Technologies:** HTML5, CSS3, JavaScript, ReactJS, Tailwind CSS.
+
+- Developing a modern training institute platform.
+- Designing an attractive space and universe-inspired UI.
+- Creating responsive pages for courses, training programs and institute information.
+- Focusing on user-friendly navigation and modern web design.
+
 ---
 
 ## Experience & Professional Training
@@ -184,6 +194,7 @@ Affiliated to Jawaharlal Nehru Technological University, Kakinada (JNTUK)
 - Python Full Stack Development and Generative AI – AchieversIT (2026)
 
 ---
+
 
 ## GitHub Statistics
 
