@@ -45,10 +45,9 @@ I am interested in designing and developing practical applications using Python 
 - ☁️ Familiar with Git, GitHub, CI/CD and AWS fundamentals.
 - 📍 India
 - 🔭 Currently working on **KUSBLAKS – Training Institute Platform**.
-**Professional Goal:** To build innovative web applications, develop practical software solutions and continuously grow as a Full Stack Developer.
-
 
 ---
+**Professional Goal:** To build innovative web applications, develop practical software solutions and continuously grow as a Full Stack Developer.
 
 ## Technical Skills
 
