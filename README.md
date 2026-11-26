@@ -8,7 +8,7 @@ Python Full Stack Developer | AI & Machine Learning Enthusiast
 <h3 align="center">Passionate Developer from India 🇮🇳</h3>
 
 <img align="right" alt="Coding" width="380"
-src="https://chatgpt.com/s/m_6b0879b02a888191b414fb00fc727196" />
+src="Developer’s Cozy Coding Animation Grid.gif" />
 
 - 🎓 B.Tech Graduate in Computer Science Engineering (JNTUK).
 - 💻 Interested in Python Full Stack Development and AI/ML.
