@@ -1,29 +1,15 @@
-
-<!-- ===================================================== -->
-<!--              LEELA KRISHNA - GITHUB PROFILE           -->
-<!-- ===================================================== -->
-
 <div align="center">
 
 # LETHAVADLA LEELA KRISHNA
 
-### Python Full Stack Developer | AI & Machine Learning Enthusiast
+### Python Full Stack Developer | React | AI & ML | SailPoint IdentityIQ (Learning)
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Python+Full+Stack+Developer;Django+%7C+ReactJS+%7C+JavaScript;AI+%26+Machine+Learning+Enthusiast;Building+Practical+Software+Solutions" alt="Professional Animated Typing Banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+%7C+ReactJS+%7C+JavaScript;AI+%26+Machine+Learning+Enthusiast;Learning+SailPoint+IdentityIQ+(IAM%2FIGA)" alt="Typing banner" />
 
 <p>
-  <a href="https://leela-krishna-portifolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-1E3A8A?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/lethavadlaLeelaKrishna">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:lethavadlaleelakrishna@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-475569?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/lethavadlaLeelaKrishna">
-    <img src="https://img.shields.io/badge/GitHub-Follow-18181B?style=flat-square&logo=github&logoColor=white" />
-  </a>
+  <a href="https://leela-krishna-portifolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-1E3A8A?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lethavadlaLeelaKrishna"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:lethavadlaleelakrishna@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-475569?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
@@ -32,231 +18,132 @@
 
 ## About Me
 
-Hello! I'm **Leela Krishna**, a Computer Science Engineering graduate from Sri Mittapalli College of Engineering (JNTUK), passionate about software development and emerging technologies.
+Python Full Stack Developer with a **B.Tech in Computer Science Engineering** (Sri Mittapalli College of Engineering, JNTUK, 2022–2026, CGPA 7.71), based in Guntur, Andhra Pradesh, India.
 
-I am interested in designing and developing practical applications using Python Full Stack technologies and Artificial Intelligence.
+I build database-driven web applications with Python, Django, REST APIs and ReactJS, and apply AI/ML and NLP where it adds value. I am also learning identity governance with **SailPoint IdentityIQ (IIQ)**.
 
-- 🎓 B.Tech in Computer Science Engineering – CGPA: 7.71
-- 💻 Interested in Python Full Stack Development.
-- 🌐 Frontend Development using ReactJS, JavaScript, HTML5 and CSS3.
-- ⚙️ Backend Development using Python, Django and REST APIs.
-- 🗄️ Database Management using MySQL and SQLite.
-- 🤖 Interested in Artificial Intelligence, Machine Learning and NLP.
-- ☁️ Familiar with Git, GitHub, CI/CD and AWS fundamentals.
-- 📍 India
-- 🔭 Currently working on **KUSBLAKS – Training Institute Platform**.
+- 🌐 Frontend: HTML5, CSS3, JavaScript, ReactJS, Bootstrap, Tailwind CSS
+- ⚙️ Backend: Python, Django, REST APIs
+- 🗄️ Databases: SQL, MySQL, SQLite
+- 🤖 AI/ML: Machine Learning, NLP, EDA, NumPy, Pandas, Scikit-learn
+- 🔐 **IAM / IGA: SailPoint IdentityIQ (learning)**
+- ☁️ Tools: Git, GitHub, VS Code, CI/CD, AWS fundamentals, Netlify, Render
+- 🔭 Currently building: **KUSBLAKS – Training Institute Platform** (ReactJS + Tailwind CSS)
+- 🗣️ Languages: English, Telugu
 
 ---
-**Professional Goal:** To build innovative web applications, develop practical software solutions and continuously grow as a Full Stack Developer.
 
 ## Technical Skills
 
-### Programming Languages
+**Frontend**
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/ReactJS-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Frontend Development
+**Backend & Database**
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/ReactJS-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-### Backend Development
+**AI & Machine Learning**
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" />
-</p>
+![ML](https://img.shields.io/badge/Machine_Learning-102A43?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-### Database Management
+**Identity & Access Management (Learning)**
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-</p>
+![SailPoint](https://img.shields.io/badge/SailPoint_IdentityIQ-0033A1?style=flat-square)
+![IAM](https://img.shields.io/badge/IAM-6D28D9?style=flat-square)
+![IGA](https://img.shields.io/badge/IGA-0F766E?style=flat-square)
 
-### Artificial Intelligence & Machine Learning
+**Tools & Deployment**
 
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-102A43?style=flat-square" />
-  <img src="https://img.shields.io/badge/NLP-6A5ACD?style=flat-square" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-</p>
-
-
-### Tools & Deployment
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
-</p>
-
-### AI Tools & Development Assistants
-
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trae_AI-2563EB?style=flat-square" />
-</p>
-
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 ---
 
 ## Featured Projects
 
-### 01. Price Negotiating Chatbot with Text & Voice
+### 01. Price Negotiating Chatbot with Text & Voice (AI & NLP)
+**Tech:** Python, Django, NLP, REST APIs, Web Speech API, JavaScript, SQLite/MySQL
+- AI-powered e-commerce chatbot that negotiates prices by text and voice.
+- Negotiation engine using NLP and ML logic to evaluate offers, calculate discounts and generate counter-offers.
+- REST APIs and Web Speech API for chat, voice, product browsing, cart and order processing.
+- Database design for authentication, products, negotiation sessions, chat history, offers, carts and orders.
 
-**Technologies:** Python, Django, NLP, Machine Learning, REST APIs, JavaScript, Web Speech API, SQLite/MySQL.
-
-- Developed an AI-powered e-commerce chatbot supporting text and voice-based price negotiations.
-- Implemented negotiation logic to evaluate customer offers, calculate discounts and generate counter-offers.
-- Integrated REST APIs and Web Speech API.
-- Designed database functionality for authentication, products, negotiation sessions, chat history, carts and orders.
-
-### 02. Emotion Detection System
-
-**Technologies:** Python, Django, Machine Learning, JavaScript, SQLite.
-
-- Developed a Django-based emotion detection web application.
-- Created a Python script to train the Machine Learning model.
-- Integrated the trained model into the web application.
-- Used SQLite for database management and result storage.
+### 02. Emotion Detection System (AI & ML)
+**Tech:** Python, Django, Machine Learning, JavaScript, SQLite
+- Django web application that detects emotions using a trained ML model.
+- Python training script integrated into the web app; results stored in SQLite and shown in the UI.
 
 ### 03. Aegon Order – E-Commerce Website
+**Tech:** HTML5, CSS3, JavaScript · [Live demo](https://lethavadlaleelakrishna.github.io/aegon_Order/)
+- Multi-page frontend: home, about, products, product detail, offers, cart, login and signup.
+- Responsive layouts and a consistent UI, with client-side interactivity in JavaScript.
 
-**Technologies:** HTML5, CSS3, JavaScript.
-
-- Developed a responsive multi-page e-commerce frontend.
-- Created home, about, products, product details, offers, cart, login and signup pages.
-- Implemented client-side interactivity using JavaScript.
-
-**Project Link:** [View Aegon Order](https://lethavadlaleelakrishna.github.io/aegon_Order/)
-
-### 04. KUSBLAKS – Training Institute Platform
-
-**Technologies:** HTML5, CSS3, JavaScript, ReactJS, Tailwind CSS.
-
-- Developing a modern training institute platform.
-- Designing an attractive space and universe-inspired UI.
-- Creating responsive pages for courses, training programs and institute information.
-- Focusing on user-friendly navigation and modern web design.
+### 04. KUSBLAKS – Training Institute Platform *(in progress)*
+**Tech:** ReactJS, Tailwind CSS, JavaScript
+- Modern, responsive platform for courses, training programs and institute information.
 
 ---
 
-## Experience & Professional Training
+## Experience & Training
 
-### AI & Machine Learning Intern
-**Inlignx Global Pvt. Ltd. | Remote | November 2025 – March 2026**
+**Python Full Stack Developer & Generative AI Training** · Achievers IT · Apr 2026 – Aug 2026
+- Trained in HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, React, Python, SQL, MySQL and Django.
+- Built full stack practice apps with React, Django and SQL/MySQL.
+- Learned Git, GitHub, CI/CD, AWS deployment fundamentals, Netlify and Render deployment, and Generative AI tools.
 
-- Worked with Python, Pandas, NumPy and Scikit-learn.
-- Performed data preprocessing, exploratory data analysis and feature engineering.
-- Developed Machine Learning workflows involving model training and evaluation.
-- Worked on NLP-based text classification and feature extraction.
-- Implemented model testing and performance optimization.
-
-### Python Full Stack Developer & Generative AI Training
-**AchieversIT | Offline | April 2026 – August 2026**
-
-- Learned frontend technologies including HTML5, CSS3, Bootstrap, Tailwind CSS and JavaScript.
-- Practiced ReactJS application development.
-- Developed backend applications using Python and Django.
-- Practiced SQL, MySQL and database integration.
-- Learned Git, GitHub, CI/CD and AWS deployment fundamentals.
-- Explored Generative AI and AI-powered development tools.
+**AI & Machine Learning** · Inlignx Global Pvt. Ltd. (Remote) · Nov 2025 – Mar 2026
+- ML solutions with Python, Pandas, NumPy and Scikit-learn: preprocessing, feature engineering, training and evaluation.
+- NLP text classification with text preprocessing and feature extraction.
+- End-to-end ML workflows including testing and performance optimisation.
 
 ---
 
-## Education
+## Currently Learning: SailPoint IdentityIQ & IAM
 
-**Bachelor of Technology – Computer Science Engineering**
-
-Sri Mittapalli College of Engineering
-
-Affiliated to Jawaharlal Nehru Technological University, Kakinada (JNTUK)
-
-| Qualification | Details |
-|---|---|
-| Degree | B.Tech – CSE |
-| Duration | 2022 – 2026 |
-| CGPA | 7.71 |
+I am studying **Identity and Access Management (IAM)** and **Identity Governance and Administration (IGA)** with **SailPoint IdentityIQ (IIQ)**, alongside my Python full stack work. I am looking to collaborate on small IIQ and slot-booking projects.
 
 ---
 
-## Certifications
+## Education & Certifications
 
-- Full Stack UI Development – Coding Brains (2025)
-- AI and Machine Learning Internship – Inlignx Global Pvt. Ltd. (2026)
-- Python Full Stack Development and Generative AI – AchieversIT (2026)
+**B.Tech, Computer Science Engineering** · Sri Mittapalli College of Engineering (JNTUK) · 2022–2026 · CGPA 7.71
+
+- Full Stack UI Development, Coding Brains (2025)
+- AI and Machine Learning Internship, Inlignx Global Pvt. Ltd. (2026)
+- Python Full Stack Development and Generative AI, Achievers IT (2026)
 
 ---
-
-
-## GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lethavadlaLeelaKrishna&show_icons=true&theme=default&hide_border=true&rank_icon=github" />
+**Let's connect and build something meaningful.**
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethavadlaLeelaKrishna&layout=compact&theme=default&hide_border=true" />
+[![Portfolio](https://img.shields.io/badge/Personal_Portfolio-Visit-1E3A8A?style=for-the-badge&logo=vercel&logoColor=white)](https://leela-krishna-portifolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Network-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lethavadlaLeelaKrishna)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lethavadlaLeelaKrishna)
 
-<br/><br/>
+📧 lethavadlaleelakrishna@gmail.com · 📞 +91 63093 69021 · 📍 Guntur, Andhra Pradesh
 
-<img width="75%" src="https://streak-stats.demolab.com?user=lethavadlaLeelaKrishna&theme=default&hide_border=true" />
-
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-**Let's connect, collaborate and build something meaningful.**
-
-<a href="https://leela-krishna-portifolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Personal_Portfolio-Visit_My_Website-1E3A8A?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/lethavadlaLeelaKrishna">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/lethavadlaLeelaKrishna">
-  <img src="https://img.shields.io/badge/GitHub-Explore_My_Code-18181B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<a href="mailto:lethavadlaleelakrishna@gmail.com">
-  <img src="https://img.shields.io/badge/Email-lethavadlaleelakrishna%40gmail.com-475569?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
----
-
-### DREAM • LEARN • BUILD • GROW
-
-*Thank you for visiting my GitHub profile!*
+*DREAM • LEARN • BUILD • GROW*
 
 </div>
