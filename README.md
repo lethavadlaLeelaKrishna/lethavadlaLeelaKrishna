@@ -94,6 +94,7 @@ I am interested in designing and developing practical applications using Python 
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 </p>
 
+
 ### Tools & Deployment
 
 <p>
@@ -102,7 +103,20 @@ I am interested in designing and developing practical applications using Python 
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
 </p>
+
+### AI Tools & Development Assistants
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trae_AI-2563EB?style=flat-square" />
+</p>
+
 
 ---
 
